@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate and master's degrees from Anhui University of Chinese Medicine and Nanjing Normal University.
+I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that, I received my undergraduate and master’s degrees from Anhui University of Chinese Medicine and Nanjing Normal University, respectively.
 
 ## Research Interests
 
