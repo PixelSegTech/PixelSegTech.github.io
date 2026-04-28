@@ -18,6 +18,7 @@ I am currently a Ph.D. candidate in the school of Computer Science and Engineeri
 - **[Jan. 2025]** Our paper "Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning" is accepted to **TMM 2025**!
 - **[Jan. 2025]** Our paper "Uncertainty-Participation  Context Consistency Learning for Semi-supervised Semantic Segmentation" is accepted to **ICASSP 2025**!
 - **[Sep. 2024]** Our paper "Class Probability Space Regularization for Semi-supervised Semantic Segmentation" is accepted to **CVIU 2024**!
+- **[Mar. 2024]** Our paper "Class-Level Multiple Distributions Representation are Necessary for Semantic Segmentation" is accepted to **DASFAA 2024**!
 
 
 {% include_relative _includes/publications.md %}
