@@ -1,7 +1,7 @@
 main:
 
   - title: "PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation"
-    authors: "<strong>Jianjian Yin*</strong>, Tao Chen, Yi Chen, Gensheng Pei, Xiangbo Shu, Yazhou Yao†, Fumin Shen"
+    authors: "<strong>Jianjian Yin*</strong>, Tao Chen†, Yi Chen, Gensheng Pei, Xiangbo Shu, Yazhou Yao†, Fumin Shen"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     pdf: "https://arxiv.org/pdf/2603.17520"
@@ -10,7 +10,7 @@ main:
     image: "./assets/img/PCA.png"
 
   - title: "DepMatch: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge"
-    authors: "<strong>Jianjian Yin*</strong>, Xiruo Jiang, Tao Chen, Gensheng Pei, Yazhou Yao†, Fumin Shen, Heng-Tao Shen"
+    authors: "<strong>Jianjian Yin*</strong>, Xiruo Jiang, Tao Chen†, Gensheng Pei, Yazhou Yao†, Fumin Shen, Heng-Tao Shen"
     conference_short: "TIP"
     conference: "IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026."
     pdf: "https://ieeexplore.ieee.org/abstract/document/11455591"
