@@ -6,7 +6,7 @@ main:
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     pdf: "https://arxiv.org/pdf/2603.17520"
     code: "https://github.com/NUST-Machine-Intelligence-Laboratory/PCA-Seg"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:1ZhLGNfz1ZQJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKvp-A:AFyMTJUAAAAAafGpv-CfyzmSFskrLOBDwYy5OP0&scisig=AFyMTJUAAAAAafGpv7cwdRYiUhGnlnBLYM7cIi8&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/PCA.png"
 
   - title: "DepMatch: Boosting Semi-Supervised Semantic Segmentation by Exploring Depth Difference Knowledge"
@@ -15,7 +15,7 @@ main:
     conference: "IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2026."
     pdf: "https://ieeexplore.ieee.org/abstract/document/11455591"
     code: "https://github.com/NUST-Machine-Intelligence-Laboratory/DepMatch"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:ZZyD0y6C3CEJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKvwRs:AFyMTJUAAAAAafGp2RtFefqbfocjUe1OuqmbmzM&scisig=AFyMTJUAAAAAafGp2dyqcbnfOHcqoK83XP6JQMY&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/DepMatch.png"
 
   - title: "Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning"
@@ -24,7 +24,7 @@ main:
     conference: "IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025."
     pdf: "https://ieeexplore.ieee.org/abstract/document/11071876"
     code: "https://github.com/NUST-Machine-Intelligence-Laboratory/MCCL"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:29NTVdPWQtwJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKv6Tg:AFyMTJUAAAAAafGp8Tj8Dbrr-82seINbgd9cAHY&scisig=AFyMTJUAAAAAafGp8cd7myPDsOdnfk1PDSXFm5s&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/MCCL.png"
 
   - title: "Uncertainty-participation context consistency learning for semi-supervised semantic segmentation"
@@ -33,7 +33,7 @@ main:
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing  <strong>(ICASSP)</strong>, 2025."
     pdf: "https://ieeexplore.ieee.org/abstract/document/10889133/"
     code: "https://github.com/YUKEKEJAN/UCCL"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:MfmhUi5ePmgJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKsH7g:AFyMTJUAAAAAafGqB7ik7Ts0h7k-n0Xf8uAlK9U&scisig=AFyMTJUAAAAAafGqB8lHnk7OeJRMZ-Mh3Roe0VQ&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/UCCL.png"
 
   - title: "Class Probability Space Regularization for semi-supervised semantic segmentation"
@@ -42,7 +42,7 @@ main:
     conference: "Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2024."
     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1077314224002273"
     code: "https://github.com/MKSAQW/CPSR"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:shBhdbPHYxwJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKsOlc:AFyMTJUAAAAAafGqIlc4q6WuU4SG4R1E6Q6DDsg&scisig=AFyMTJUAAAAAafGqIphez3jRusoRlplXCSm2v88&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/CPSR.png"
 
 
@@ -52,5 +52,5 @@ main:
     conference: "International Conference on Database Systems for Advanced Applications <strong>(DASFAA)</strong>, 2024."
     pdf: "https://link.springer.com/chapter/10.1007/978-981-97-5575-2_25"
     code: "https://github.com/YUCOCOCS/CMDL"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:-3Z3YLlddF4J:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKsIAM:AFyMTJUAAAAAafGqOAMXzJe4d8eMiHppRXV_HzY&scisig=AFyMTJUAAAAAafGqOEzmZiKLqVSWQ-bAY_KWPug&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/CMDR.png"
