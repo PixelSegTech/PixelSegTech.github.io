@@ -12,6 +12,7 @@ I am currently a Ph.D. candidate in the school of Computer Science and Engineeri
 - **Perceptron Model**: Medical image segmentation, Semi-supervised Learning, Semantic Segmentation
 
 ## News
+- **[Jun. 2026]** Our paper "Cut-ViT" is accepted to **ECCV 2026**!
 
 - **[Feb. 2026]** Our paper "PCA-Seg: Revisiting  Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation" is accepted to **CVPR 2026**!
 - **[Feb. 2026]** Our paper "DepMatch: Boosting Semi-supervised  Semantic Segmentation by Exploring  Depth Difference Knowledge" is accepted to **TIP 2026**!
