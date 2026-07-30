@@ -20,6 +20,7 @@
     <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor>Information Fusion (IF)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems/"><autocolor>Knowledge-based Systems (KBS)</autocolor></a></li>
+    <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
     <li><a href="https://www.springer.com/journal/371"><autocolor>The Visual Computer</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems with Applications</autocolor></a></li>
