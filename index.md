@@ -24,11 +24,11 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 - **[Mar. 2024]** Our paper "Class-Level Multiple Distributions Representation are Necessary for Semantic Segmentation" is accepted to **DASFAA 2024**!
 
 ## Selected Honors
-&nbsp;2024.09 - Present (Nanjing University of Science and Technology):
+&nbsp;&nbsp;&nbsp;2024.09 - Present (Nanjing University of Science and Technology):
 - Outstanding Ph.D. Student Award
 
 
-&nbsp;2021.09 - 2024.06 (Nanjing Normal University):
+&nbsp;&nbsp;&nbsp;2021.09 - 2024.06 (Nanjing Normal University):
 - President's Scholarship of NNU (the highest honor for students at NNU)
 - National Scholarship (The highest national wide scholarship for students in China)
 
