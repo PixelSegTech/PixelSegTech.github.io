@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). I am expected to complete my Ph.D. in June 2028.  
+I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). 
+
+{%I am expected to complete my Ph.D. in June 2028.}  
 
 
 If you are interested in semi-supervised learning, image segmentation, model pruning, or quantization, please feel free to send me an email. I would be happy to exchange ideas, discuss research topics, and grow together.
@@ -15,7 +17,7 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 - **Perceptron Model**: Medical image segmentation, Semi-supervised Learning, Semantic Segmentation
 
 ## News
-- **[Jun. 2026]** Our paper "Cut-ViT" is accepted to **ECCV 2026**!
+- **[Jun. 2026]** Our paper "Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency" is accepted to **ECCV 2026**!
 - **[Feb. 2026]** Our paper "PCA-Seg: Revisiting  Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation" is accepted to **CVPR 2026**!
 - **[Feb. 2026]** Our paper "DepMatch: Boosting Semi-supervised  Semantic Segmentation by Exploring  Depth Difference Knowledge" is accepted to **TIP 2026**!
 - **[Jan. 2025]** Our paper "Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning" is accepted to **TMM 2025**!
