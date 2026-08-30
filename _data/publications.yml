@@ -27,6 +27,15 @@ main:
     bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:ZZyD0y6C3CEJ:scholar.google.com/&output=citation&scisdr=CliB048KEM7a9kKvwRs:AFyMTJUAAAAAafGp2RtFefqbfocjUe1OuqmbmzM&scisig=AFyMTJUAAAAAafGp2dyqcbnfOHcqoK83XP6JQMY&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/DepMatch.png"
 
+  - title: "DFEN: Dual Feature Equalization Network for Medical Image  Segmentation"
+    authors: "<strong>Jianjian Yin*</strong>, Yi Chen†, Chengyu Li, Zhichao Zheng, Yanhui Gu, Junsheng Zhou"
+    conference_short: "KBS"
+    conference: "Knowledge-Based Systems <strong>(KBS)</strong>, 2026."
+    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0950705126004727"
+    code: "https://github.com/YUCOCOCS/DFEN"
+    bibtex: "https://www.sciencedirect.com/science/article/abs/pii/S0950705126004727"
+    image: "./assets/img/DFEN.png"
+
   - title: "Semi-supervised Semantic Segmentation with Multi-Constraint Consistency Learning"
     authors: "<strong>Jianjian Yin*</strong>,  Tao Chen†, Gensheng Pei, Yazhou Yao†, Liqiang Nie, Xiansheng Hua"
     conference_short: "TMM"
