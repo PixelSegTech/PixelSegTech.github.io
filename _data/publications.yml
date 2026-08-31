@@ -3,7 +3,7 @@ main:
     authors: "<strong>Jianjian Yin*</strong>, Liulei Li, Tao Chen, Yi Chen, Yazhou Yao†, Wenguan Wang"
     conference_short: "ECCV"
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026."
-    pdf: ""
+    pdf: "https://arxiv.org/abs/2608.28205"
     code: "https://github.com/NUST-Machine-Intelligence-Laboratory/Cut-ViT"
     bibtex: ""
     image: "./assets/img/Cut_ViT.png"
