@@ -27,7 +27,7 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 ## Selected Honors
 - Doctoral Special Program of the Young Science and Technology Talent Cultivation Project of the China Association for Science and Technology
 - President's Scholarship of NNU (**the highest honor for students in NNU**)
-- National Scholarship (**The highest national wide scholarship for students in China**)
+- Master's National Scholarship (**The highest national wide scholarship for students in China**)
 - Outstanding Ph.D. Student Award
 
 
