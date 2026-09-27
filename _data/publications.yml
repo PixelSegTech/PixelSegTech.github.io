@@ -1,5 +1,5 @@
 main:
-  - title: "Cut-ViT:Task-Specific Model Pruning via Gram Anchoring Subspace Consistency"
+  - title: "Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency"
     authors: "<strong>Jianjian Yin*</strong>, Liulei Li, Tao Chen, Yi Chen, Yazhou Yao†, Wenguan Wang"
     conference_short: "ECCV"
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026."
