@@ -9,6 +9,13 @@
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) </autocolor></a></li>
 </ul> -->
 
+<h4 style="margin:0 10px 0;">Conference  Reviewer</h4>
+
+<ul style="margin:0 0 20px;">
+    <li><autocolor>International Conference on Learning Representations (ICLR)</autocolor></li>
+    <li><autocolor>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
@@ -26,11 +33,4 @@
     <li><a href="https://www.springer.com/journal/371"><autocolor>The Visual Computer</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems with Applications</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control"><autocolor>Biomedical Signal Processing and Control</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Conference  Reviewer</h4>
-
-<ul style="margin:0 0 20px;">
-    <li><autocolor>International Conference on Learning Representations (ICLR)</autocolor></li>
-    <li><autocolor>Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</autocolor></li>
 </ul>
