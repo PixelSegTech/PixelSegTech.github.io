@@ -15,6 +15,7 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 - **Perceptron Model**: Medical image segmentation, Semi-supervised Learning, Semantic Segmentation
 
 ## News
+- **[Oct. 2026]** I am honored to have been selected for the PhD Student Special Program of the Young Talent Support Project sponsored by the China Association for Science and Technology!
 - **[Jun. 2026]** Our paper "Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency" is accepted to **ECCV 2026**!
 - **[Feb. 2026]** Our paper "PCA-Seg: Revisiting  Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation" is accepted to **CVPR 2026**!
 - **[Feb. 2026]** Our paper "DepMatch: Boosting Semi-supervised  Semantic Segmentation by Exploring  Depth Difference Knowledge" is accepted to **TIP 2026**!
