@@ -17,7 +17,7 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 ## News
 - **[Oct. 2026]** I have been awarded the **National Scholarship for Doctoral Students**!
 - **[Oct. 2026]** I am honored to have been selected for the **PhD Student Special Program of the Young Talent Support Project** sponsored by the China Association for Science and Technology!
-- **[Jun. 2026]** I interned at the **Imaging Planning and Advanced Research Department** at **vivo**.
+- **[Jun. 2026]** I interned at the **Imaging Planning and Advanced Research Department** at **vivo**!
 - **[Jun. 2026]** Our paper "Cut-ViT: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency" is accepted to **ECCV 2026**!
 - **[Feb. 2026]** Our paper "PCA-Seg: Revisiting  Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation" is accepted to **CVPR 2026**!
 - **[Feb. 2026]** Our paper "DepMatch: Boosting Semi-supervised  Semantic Segmentation by Exploring  Depth Difference Knowledge" is accepted to **TIP 2026**!
@@ -28,6 +28,7 @@ If you are interested in semi-supervised learning, image segmentation, model pru
 - **[Mar. 2024]** Our paper "Class-Level Multiple Distributions Representation are Necessary for Semantic Segmentation" is accepted to **DASFAA 2024**!
 
 ## Selected Honors
+- National Scholarship for Doctoral Students  (**The highest national wide scholarship for students in China**)
 - Doctoral Special Program of the Young Science and Technology Talent Cultivation Project of the China Association for Science and Technology
 - President's Scholarship of NNU (**The highest honor for students in NNU**)
 - Master's National Scholarship (**The highest national wide scholarship for students in China**)
