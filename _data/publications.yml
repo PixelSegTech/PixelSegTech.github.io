@@ -5,7 +5,7 @@ main:
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026."
     pdf: "https://arxiv.org/abs/2608.28205"
     code: "https://github.com/NUST-Machine-Intelligence-Laboratory/Cut-ViT"
-    bibtex: ""
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:PEqTZf486WwJ:scholar.google.com/&output=citation&scisdr=CoZ01atmENnFqTibAA4:AIL1Nv4AAAAAau2dGA7Xt33YQwCd0OaPcRQCWHI&scisig=AIL1Nv4AAAAAau2dGAvxeKiu4JpAeQJP3s6zg_Y&scisf=4&ct=citation&cd=-1&hl=zh-CN"
     image: "./assets/img/Cut_ViT.png"
 
     
